@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8c102395-dfb1-4e42-9033-cae828d60e72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "backgrond_main_01": {
+      "ver": "1.0.3",
+      "uuid": "dbb5c2f0-b17c-455b-b7dc-012a61e2fe19",
+      "rawTextureUuid": "8c102395-dfb1-4e42-9033-cae828d60e72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1080,
+      "rawWidth": 720,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
